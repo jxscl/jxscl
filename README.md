@@ -28,14 +28,22 @@
 
 ✅ **基于空间场景的前沿技术的应用和探索** 包括企业展厅，商业快闪空间和品牌门店三大领域，服务案例包括利尔达科技集团总部展厅，杭州滨江AIGC场景创新体验中心，杭州天目里蕉不绿AI心理测试快闪，西泠印社河坊街门店AI互动等。
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀关于元形水滴公司的来源灵感：
+非常有意思的，从“分形”的概念去解读三体的水滴飞船到达地球时候的画面的视觉效果
+<https://www.bilibili.com/video/BV1454y1s7yo/?vd_source=e3f340b7ce3d162794656e360ff23521>
 
-<!---
-jxscl/jxscl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+### 🚀在混沌创新商学院，当时上课看到的纪录片，是英国皇家科学院的物理学家作为主持人讲解
+<https://www.bilibili.com/video/BV1jE41167ta/?share_source=copy_web&vd_source=c777567be28cb356919c4508c66d337b>
+
+### 🤣沈传立个人动态信息
+
+<https://eiqplg079bu.feishu.cn/wiki/DWKSwCpzgiS9MPkrmUKcFweHnAc>
+
+Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. 
+
+交流、分享、理解、尊重，协作。
+
+迈向多元人世界的未来
+
+
 --->
