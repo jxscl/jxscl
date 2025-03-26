@@ -13,6 +13,11 @@
  **💧2017时候在混沌创新商学院当时写的关于未来和科技发展的思考**
  <https://m.okjike.com/originalPosts/67ceb7b7de6b9339bfe6c0be?s=eyJ1IjoiNWFhOWRlMjIzZDZmOWQwMDE3NjJmZDY1In0%3D>
 
+### 💦现在运营的公司 
+杭州元形水滴智能科技有限公司
+官方网站： <https://www.dropletonverse.com/>
+<img width="1652" alt="截屏2025-03-26 10 29 51" src="https://github.com/user-attachments/assets/d4ab597b-e806-4249-b591-aa40d4a14331" />
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
