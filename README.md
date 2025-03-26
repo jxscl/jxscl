@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 沈传立
-- Linkedin: <Linked：https://www.linkedin.com/in/chuanli-shen-794a7658/>
+- Linkedin: <https://www.linkedin.com/in/chuanli-shen-794a7658/>
 - <img width="801" alt="截屏2025-03-26 10 01 55" src="https://github.com/user-attachments/assets/0d1a7c3d-a590-4593-9741-30feefd183f4" />
 
 - 👀 I’m interested in ...
